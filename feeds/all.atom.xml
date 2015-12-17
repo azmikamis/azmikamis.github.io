@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Azmi Kamis</title><link href="http://azmikamis.com/" rel="alternate"></link><link href="http://azmikamis.com/feeds/all.atom.xml" rel="self"></link><id>http://azmikamis.com/</id><updated>2015-08-08T13:10:00+08:00</updated><entry><title>First Blog Post</title><link href="http://azmikamis.com/Blogging%20with%20Pelican.html" rel="alternate"></link><updated>2015-08-08T13:10:00+08:00</updated><author><name>yourname</name></author><id>tag:azmikamis.com,2015-08-08:Blogging with Pelican.html</id><summary type="html">&lt;h1&gt;Work in progress&lt;/h1&gt;
-&lt;p&gt;Following are examples of Pelican markup.&lt;/p&gt;
-&lt;p&gt;This is a &lt;strong&gt;first&lt;/strong&gt; attempt to create static page with the help of &lt;em&gt;Pelican&lt;/em&gt;.&lt;/p&gt;</summary><category term="blogging"></category><category term="markup"></category></entry></feed>
